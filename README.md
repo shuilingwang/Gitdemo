@@ -1,6 +1,6 @@
 # 懒羊羊的自我介绍
 
-<img src="C:\Users\cherish\Pictures" alt="懒羊羊形象" width = "200" />
+<img src="https://github.com/shuilingwang/Gitdemo/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250311103449.jpg" alt="懒羊羊形象" width = "200" />
 
 大家好，我是**懒羊羊**，我的身份是*青青草原的美食家，草原三剑客之一*。以下是我的自我介绍：
 ***
@@ -44,8 +44,8 @@ print(np.array([1, 2, 3]) ** 2)```
 ``print(np.array([1, 2, 3]) ** 2)``可输出结果
 ### 我最喜欢的环境管理工具是conda
 
-<img src="C:\Users\cherish\Pictures\Screenshots" alt="conda" width = "800" />
+<img src="https://github.com/shuilingwang/Gitdemo/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-02%20155621.png" alt="conda" width = "800" />
 
 ### 我可以在IDE上使用我建立的虚拟环境
 
-<img src="C:\Users\cherish\Pictures\Screenshots" alt="虚拟环境" width = "800" />
+<img src="https://github.com/shuilingwang/Gitdemo/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-02%20223907.png" alt="虚拟环境" width = "800" />
